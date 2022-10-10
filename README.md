@@ -1,5 +1,5 @@
 # MatPlotLib-challenge
-MatPlotLib (Homework)[https://github.com/Yuteng0927/MatPlotLib-challenge]
+MatPlotLib [Homework](https://github.com/Yuteng0927/MatPlotLib-challenge)
 
 What good is data without a good plot to tell the story?
 
